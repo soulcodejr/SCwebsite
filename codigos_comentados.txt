@@ -1,0 +1,462 @@
+TIME DE DESENVOLVIMENTO
+
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/Rodolfo_mini.jpeg" class="img-responsive wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s" alt="Rodolfo Peixoto" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="https://www.facebook.com/rdxinho" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Rodolfo Peixoto<br><small class="highlight"> Presidente & BACK END </small></h4>
+        <p>Apaixonado por tecnologia desde pequeno, vivo no fascínio do aprendizado e do aprimoramento dos conhecimentos já adquiridos</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/Amanda_mini.jpeg" class="img-responsive wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s" alt="Amanda" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="https://www.facebook.com/amanda.oliveira.92" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Amanda Oliveira<br><small class="highlight">Diretora de Recursos Humanos & Designer</small></h4>
+        <p>Acredito que a tecnologia é o caminho para que eu possa transmitir as minhas idéias para o mundo. E fazendo isso em equipe é melhor ainda.</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/Pedro_mini.jpeg" class="img-responsive wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s" alt="Pedro" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Pedro Rodrigues<br><small class="highlight">Diretor Financeiro & BACK END</small></h4>
+        <p>O aprendizado na área, me faz acreditar que posso melhorar o mundo, unindo tecnologia e medicina e transformar a terra em um planeta melhor.</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/LiviaFreitas_mini.jpeg" class="img-responsive wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s" alt="Livia Freitas" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Livia Freitas<br><small class="highlight">Diretora de Marketing</small></h4>
+        <p>Estudiosa e dedicada em tudo que faz, seus objetivos não são apenas notas altas. Ser boa no que faz é questão de escolha!</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/PedroPerrone_mini.jpeg" class="img-responsive wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s" alt="Perrone" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Pedro Perrone<br><small class="highlight">Diretor de Projetos & FRONT-END</small></h4>
+        <p>Sempre busquei uma profissão onde pudesse ser criativo. Encontrar a programação foi um presente. Fico encantado com o poder de criar e inovar todo dia no trabalho</p>
+    </div>
+</div>
+
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/Gabriel.jpg" class="img-responsive wow fadeIn animated" data-wow-delay="0.2s" data-wow-duration="2s" alt="Gabriel Fioresi"">
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp animated" style="visibility: visible;">
+        <h4>Gabriel Fioresi<br><small class="highlight">Designer & Assessor de Marketing</small></h4>
+        <p>Sou criativo, perfeccionista e apaixonado por tecnologia. Tento sempre dar o meu melhor para poder fazer qualquer coisa.</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/team-3.jpeg" class="img-responsive wow fadeIn animated" data-wow-delay="0.1s" data-wow-duration="2s" alt="Livia Fernandes" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;-webkit-animation-delay: 0.1s; -moz-animation-delay: 0.1s; animation-delay: 0.1s;">
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp animated" style="visibility: visible;">
+        <h4>Lívia Fernandes<br><small class="highlight">FRONT END</small></h4>
+        <p>Na tecnologia vi a oportunidade de expandir horizontes e criar formas de melhorar o mundo. Determinada a sempre evoluir</p>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/team-3.jpeg" class="img-responsive wow fadeIn animated" data-wow-delay="0.1s" data-wow-duration="2s" alt="Frederico Nader" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;-webkit-animation-delay: 0.1s; -moz-animation-delay: 0.1s; animation-delay: 0.1s;" />
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp">
+        <h4>Frederico Nader<br><small class="highlight">Assessora de Marketing</small></h4>
+        <p>"Lorem ipsum dolor sit amet. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</p>
+    </div>
+</div>
+<div class="col-md-4 col-md-offset-4 col-sm-4 team-member">
+    <div class="effect effects">
+        <div class="img">
+            <img src="img/team/team-3.jpeg" class="img-responsive wow fadeIn animated" data-wow-delay="0.3s" data-wow-duration="2s" alt="Você" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;">
+            <div class="overlay">
+                <ul class="expand">
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-facebook"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-twitter"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-youtube"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                    <li class="social-icon"><a href="javascript:void(0)" onclick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                </ul>
+                <a class="close-overlay hidden">x</a>
+            </div>
+        </div>
+    </div>
+    <div class="member-info wow fadeInUp animated" style="visibility: visible;">
+        <h4>Cliente<br><small class="highlight">Inspira & Alegra</small></h4>
+        <p>Amamos este membro da empresa, pois esse é o motivo pelo qual a Soul Code se diverte fazendo teste teste teste.</p>
+    </div>
+</div>
+
+CAMPEONATO DE CS
+
+
+<section id="who-we-are" data-stellar-background-ratio="0.6">
+    <div class="row" style="position:relative;">
+        <div class="parallax-overlay"></div> 
+        <div class="container">
+            
+            <div class="col-md-6 col-we-are wow fadeInUp">
+                <h2 class="we-are-info">Our Skills<br><small class="highlight">Crafting With Love</small></h2>          
+                <br>
+                <p class="p-info">Fusce faucibus tincidunt nulla, tincidunt sagittis magna venenatis quis. Proin commodo eu ipsum eu suscipit. In dapibus arcu sit amet imperdiet posuere. Praesent condimentum nulla at mauris ornare, eget consequat felis euismod.</p> 
+                <p class="p-info">Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis viverra purus tristique. Integer lobortis erat in placerat fermentum. Sed luctus varius leo ac posuere. Integer eget est vitae dolor.</p>  
+            </div>
+            
+            <div class="col-md-6 col-md-skills wow fadeInUp" data-wow-delay="0.3s">
+                <div class="skills-col">
+                    
+                    <p><em>User Experience</em></p>
+                    <div class="skillbar" data-percent="85%">
+                        <div class="skillbar-title"><span>85%</span></div>
+                        <div class="skillbar-bar"></div>
+                    </div>
+                    
+                    <p><em>Web & Mobile Design</em></p>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-title"><span>100%</span></div>
+                        <div class="skillbar-bar"></div>
+                    </div>
+                    
+                    <p><em>Branding</em></p>
+                    <div class="skillbar" data-percent="64%">
+                        <div class="skillbar-title"><span>64%</span></div>
+                        <div class="skillbar-bar"></div>
+                    </div>
+                    
+                    <p><em>Fun</em></p>
+                    <div class="skillbar" data-percent="50%">
+                        <div class="skillbar-title"><span>50%</span></div>
+                        <div class="skillbar-bar"></div>
+                    </div>
+                         
+                </div>
+            </div> 
+        </div>
+    </div>
+</section>
+
+
+<section id="processoseletivo" data-stellar-background-ratio="0.6">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 separator-video-content wow fadeInUp">
+                <h2 class="video-info">Processo Seletivo<br></h2>
+                <br>
+                <p class="p-info">Está aberto o 1º Processo Seletivo da Soul Code com vagas para o setor financeiro, design, marketing e desenvolvedor. Os candidatos deverão enviar o currículo juntamente com a carta de intenção para o email rh@soulcodejr.com até a 00h00 do último dia de inscrição. A classificação será dividida em 3 etapas conforme o edital.</p>
+                <p class="p-info"><b>Início das Inscrições:</b> 25 de julho de 2016</p>
+                <p class="p-info"><b>Término das Inscrições:</b> 19 de agosto de 2016</p>
+                <p class="p-info">Para saber o número de vagas e as regras acesse o nosso edital.</p>
+                <p class="p-info"><a href="img/pdfs/Edital - Processo Seletivo 2016.pdf" target="_blank">Clique aqui para ler o edital!</a></p>
+            </div>
+            <div class="col-md-6 fluid-width-video-wrapper">
+                 <div class="video-container" >
+                        <img src="img/event/processo-min.png" class="img-responsive wow fadeIn gray" data-wow-delay="0.1s" data-wow-duration="2s"/>
+                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Start Campeonato CS -->
+<section id="campeonatocsgo" data-stellar-background-ratio="0.6">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 separator-video-content wow fadeInUp">
+                <h2 class="video-info">Campeonato CS:GO<br></h2>
+                <br>
+                <p class="p-info">Vem aí o 1º Campeonato Campista de CS:GO. Monte já o seu time, faça a inscrição da equipe na data prevista e venha competir.
+Para participar acesse o <span class="highlight"><a href="//csgo.soulcodejr.com/" target="_blank">link</a></span> para inscrição tendo em mãos os nomes completos e CPF de todos os membros da equipe e o e-mail do capitão, lembre-se de ser criativo na escolha do nome do time. Após a realização da inscrição aguarde o envio do link para o pagamento da taxa de inscrição que será enviado para o e-mail informado em até 24 hrs. Ao recebermos o pagamento enviaremos uma mensagem confirmando a inscrição no evento. As vagas são LIMITADAS, então não perca tempo e garanta já a sua!</p>
+                <p class="p-info"><b>Inscrições:</b> 2 a 15 de agosto</p>
+                <p class="p-info"><b>Data do campeonato:</b> 20 e 21 de agosto</p>
+                <p class="p-info"><b>Loal:</b> Av. Alberto Lamego – Modrian Life (salão A)</p>
+                <p class="p-info"><b>Premiação:</b> R$ 500,00 + Medalhas + Troféu</p>
+            </div>
+            <div class="col-md-6 fluid-width-video-wrapper">
+                 <div class="video-container" >
+                        <img src="img/event/Campeonato.csgo.png" class="img-responsive wow fadeIn gray" data-wow-delay="0.1s" data-wow-duration="2s"/>
+                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Campeonato CS -->
+
+
+VALORES
+
+        <!-- Start VALORES -->
+        <!--<section id="valores">
+            <div class="container">
+                <div class="col-lg-12 section-title wow fadeIn">
+                    <h2><strong>Nossos Valores</strong></h2>
+                </div>
+                <div class="valores-container">
+                    <div class="row services-row">
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="valores">
+                                <div class="valores-icon">
+                                    <i class="icon ion-ios-monitor-outline ion-3x highlight"></i>
+                                    <i class="icon ion-ios-monitor-outline back-icon"></i>
+                                </div>
+                                <div class="valores-info">
+                                    <p class="valores-description">Orgulho da cultura SoulCode <br> Trabalho em Equipe <br> Ética e Respeito</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.2s">
+                            <div class="valores">
+                                <div class="valores-icon">
+                                    <i class="icon ion-social-github ion-3x highlight"></i>
+                                    <i class="icon ion-social-github back-icon"></i>
+                                </div>
+                                <div class="valores-info">
+                                    <p class="valores-description">Ser Empreendedor <br> Proatividade <br> Transparência</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
+                            <div class="valores">
+                                <div class="valores-icon">
+                                    <i class="icon ion-speedometer ion-3x highlight"></i>
+                                    <i class="icon ion-speedometer back-icon"></i>
+                                </div>
+                                <div class="valores-info">
+                                    <p class="valores-description">Profissionalismo <br> Vonta de Aprender <br> Não ter medo de errar </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.4s">
+                            <div class="valores">
+                                <div class="valores-icon">
+                                    <i class="icon ion-map ion-3x highlight"></i>
+                                    <i class="icon ion-map back-icon"></i>
+                                </div>
+                                <div class="valores-info">
+                                    <p class="valores-description">Aprender com erros <br> Paixão pelo que fazemos </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>-->
+        <!-- End VALORES -->
+
+VISAO
+
+        <!-- Start VISAO -->
+        <!--<section id="visao">
+            <div class="container">
+                <div class="col-lg-12 section-title wow fadeIn">
+                    <h2><strong>Nossa Visão</strong></h2>
+                    <p class="lead"><i>“Ser a maior empresa de inovação do país”  </i>&nbsp A maior empresa consiste em:</p>
+                </div>
+                <div class="visao-container">
+                    <div class="row visao-row">
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="visao">
+                                <div class="visao-icon">
+                                    <i class="icon ion-ios-monitor-outline ion-3x highlight"></i>
+                                    <i class="icon ion-ios-monitor-outline back-icon"></i>
+                                </div>
+                                <div class="visao-info">
+                                    <h4>Pelos Clientes </h4>
+                                    <p class="visao-description">Sermos referência em solução de problemas encontrados. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.2s">
+                            <div class="visao">
+                                <div class="visao-icon">
+                                    <i class="icon ion-social-github ion-3x highlight"></i>
+                                    <i class="icon ion-social-github back-icon"></i>
+                                </div>
+                                <div class="visao-info">
+                                    <h4>Pelos Colaboradores </h4>
+                                    <p class="visao-description">Sermos considerados como a melhor opção de desenvolvimento profissional e pessoal com qualidade de vida. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
+                            <div class="visao">
+                                <div class="visao-icon">
+                                    <i class="icon ion-speedometer ion-3x highlight"></i>
+                                    <i class="icon ion-speedometer back-icon"></i>
+                                </div>
+                                <div class="visao-info">
+                                    <h4>Pela Comunidade Acadêmica</h4>
+                                    <p class="visao-description">Sermos considerados como modelo de mudança. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.4s">
+                            <div class="visao">
+                                <div class="visao-icon">
+                                    <i class="icon ion-map ion-3x highlight"></i>
+                                    <i class="icon ion-map back-icon"></i>
+                                </div>
+                                <div class="visao-info">
+                                    <h4>Pela Sociedade </h4>
+                                    <p class="visao-description">Sermos considerados uma empresa social e ecologicamente responsável. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </section>-->
+        <!-- End VISAO -->
+
+EVENTOS ORGANIZADOS
+
+        <!-- Start EventosOrganizados -->
+        <section id="eventos">
+            <div class="container">
+                <div class="col-lg-12 section-title wow fadeIn">
+                    <h2><small>Eventos Organizados</small></h2>
+                </div>
+                <h4>Counter-Strike 1.6</h4>
+                <p class="lead">Primeiro evento realizado pela Soul Code para gerar caixa para a empresa.</p>
+                <h4>Minicursos</h4>
+                <p class="lead">A empresa realiza minicursos para capacitação e aprendizado de seus membros, para que todos possam estar nivelados e assim trabalhem juntos e em plena produtividade. </p>
+                <h4>Cultura Júnior na Câmara Municipal</h4>
+                <p class="lead">Realizado com o intuito de promover a integração com outras empresas juniores da região de Campos dos Goytacazes. </p>
+                <h4>Counter-Strike: Global Offensive</h4>
+                <p class="lead">Devido ao sucesso do primeiro evento decidimos então realizar uma Segunda edição do CS, dessa vez na versão Global Offensive.</p>
+                <h4>Cultura Júnior na UENF</h4>
+                <p class="lead">Semelhante ao evento "Cultura Júnior na Câmara Municipal", porem o objetivo desse evento foi informar a comunidade da UENF sobre a existência da SoulCode e a importância do movimento Júnior nas universidades. </p>
+        </section>
+        <!-- End EventosOrganizados -->
+        <!-- Start Separator Call to Action -->
+        <!--<section id="separator-purchase" data-stellar-background-ratio="0.6">
+            <h2 class="text-center">Podemos lhe ajudar no seu projeto</h2>
+            <div class="container">
+                <div class="col-sm-12 call-action-purchase text-center">
+                    <span>
+                            <small>Gostou? </small>vamos fazer um orçamento agora?! <small>Em no máximo 48 horas enviaremos o orçamento com um preço acessível.</small>
+                        </span>
+                    <span>
+                            <a href="#contact" class="btn btn-primary">FAZER UM ORÇAMENTO AGORA!</a>
+                        </span>
+                </div>
+            </div>
+        </section>-->
+        <!-- End Separator Call to Action -->
+
+        <!-- Start Portfolio Section -->
+          
+        <!-- END Portfolio Section -->
